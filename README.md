@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Integrale Leads — Desafio Técnico (Analista de TI)
 
 Sistema de Cadastro de Leads: API própria em Node.js conectada ao Supabase, e uma interface em React para cadastrar e consultar os leads.
@@ -210,4 +210,4 @@ Todas as respostas seguem o formato `{ success, data, message?, error? }`.
 Este projeto foi desenvolvido com apoio do Claude (Cowork). Os principais prompts utilizados estão documentados em [`prompts.md`](./prompts.md).
 =======
 # Challange_integrale
->>>>>>> ee09990dadb7e449a42553f6ed603717cadc034b
+
