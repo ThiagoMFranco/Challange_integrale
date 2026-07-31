@@ -208,6 +208,5 @@ Todas as respostas seguem o formato `{ success, data, message?, error? }`.
 ## Uso de Inteligência Artificial
 
 Este projeto foi desenvolvido com apoio do Claude (Cowork). Os principais prompts utilizados estão documentados em [`prompts.md`](./prompts.md).
-=======
-# Challange_integrale
+
 
