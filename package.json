@@ -1,0 +1,25 @@
+{
+  "name": "integrale-leads-monorepo",
+  "version": "1.0.0",
+  "description": "Integrale Leads Management System - Full Stack Monorepo",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm --recursive run dev",
+    "build": "pnpm --recursive run build",
+    "type-check": "pnpm --recursive run type-check",
+    "lint": "pnpm --recursive run lint",
+    "test": "pnpm -C backend test",
+    "backend:dev": "pnpm -C backend dev",
+    "backend:build": "pnpm -C backend build",
+    "frontend:dev": "pnpm -C frontend dev",
+    "frontend:build": "pnpm -C frontend build"
+  },
+  "keywords": [
+    "integrale",
+    "leads",
+    "management",
+    "monorepo"
+  ],
+  "author": "",
+  "license": "MIT"
+}
